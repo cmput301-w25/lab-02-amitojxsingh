@@ -3,16 +3,17 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Amitoj Singh`
+- **CCID:** `amitoj2`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://abhiandroid.com/ui/edittext#google_vignette
+https://developer.android.com/develop/ui/views/components/button
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Student Name | CCID  |
+|--------------|-------|
+| `N/A`        | `N/a` |
+| `N/A`        | `N/A` |
